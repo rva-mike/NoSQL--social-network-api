@@ -22,10 +22,10 @@
  Clone the repo, navigate to the root folder, run the following commands from the CLI:
 
   Install Dependencies: 
-  npm install
+  'npm install'
 
   Start Server: 
-  npm start
+  'npm start'
 
   
   ## Link 
