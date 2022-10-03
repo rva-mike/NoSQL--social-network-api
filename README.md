@@ -36,7 +36,7 @@
 
 https://watch.screencastify.com/v/usVKcilwND4NXZYyN1au
 
-Same two video below, but google drive
+Same two videos below, but google drive
 
 https://drive.google.com/file/d/1CNztdjuOawWcYG8eSaJ51gNdo45cDKGW/view?usp=sharing
 
