@@ -28,15 +28,8 @@
   'npm start'
 
   
-  ## Link 
-  
-  Link to video demonstration:
-  
-  https://watch.screencastify.com/v/rGM7Z7gBjoXEBZUKOTvM
-
-https://watch.screencastify.com/v/usVKcilwND4NXZYyN1au
-
-Same two videos below, but google drive
+  ## Video Demo Links
+ 
 
 https://drive.google.com/file/d/1CNztdjuOawWcYG8eSaJ51gNdo45cDKGW/view?usp=sharing
 
